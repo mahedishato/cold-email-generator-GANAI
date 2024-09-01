@@ -97,9 +97,3 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-### Additional Notes
-
-- Replace `"your-username"` and `"your-repo-name"` with your actual GitHub username and repository name.
-- Make sure to include a `requirements.txt` file with the necessary dependencies when pushing to GitHub.
-- If the `sorce` module or other custom dependencies are not publicly available, you might want to include instructions on how to install them or provide the source code directly in the repository.
