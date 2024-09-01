@@ -1,0 +1,8 @@
+chromadb==0.5.2
+langchain
+langchain-groq
+langchain-community==0.2.12
+selenium==4.21.0
+pandas==2.0.2
+unstructured==0.14.6
+flask
