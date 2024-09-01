@@ -4,8 +4,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/mahedishato/cold-email-generator-GANAI.git
+   cd cold-email-generator-GANAI
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
