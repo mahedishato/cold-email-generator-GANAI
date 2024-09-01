@@ -1,13 +1,4 @@
-```markdown
-# Job Processing API
 
-This API extracts job information from a provided URL and generates email drafts based on the extracted job details. The API is built using Flask and leverages the `langchain_community` and `sorce` modules for data processing.
-
-## Features
-
-- **Job Extraction**: Extracts job descriptions from the specified URL.
-- **Skills Matching**: Matches extracted job skills with relevant portfolio links.
-- **Email Drafting**: Generates email drafts based on the job details and portfolio links.
 
 ## Installation
 
